@@ -21,6 +21,12 @@ Anschließend werden diese Seiten aufgerufen und konkrete E-Mail-Adressen extrah
 
 ---
 
+## 🖥️ Screenshot
+
+![4D5NW Dorker GUI](https://i.imgur.com/pFPKNbz.png))
+
+---
+
 ## ⚙️ Installation
 
 ### 🔗 Voraussetzungen
